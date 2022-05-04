@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DomainLayer4/1.0.0": {
+        "runtime": {
+          "DomainLayer4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DomainLayer4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

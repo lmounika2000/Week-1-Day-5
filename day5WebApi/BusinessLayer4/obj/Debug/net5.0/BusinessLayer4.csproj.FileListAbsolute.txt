@@ -1,0 +1,34 @@
+C:\Users\lmoun\source\repos\BusinessLayer4\bin\Debug\net5.0\BusinessLayer4.deps.json
+C:\Users\lmoun\source\repos\BusinessLayer4\bin\Debug\net5.0\BusinessLayer4.dll
+C:\Users\lmoun\source\repos\BusinessLayer4\bin\Debug\net5.0\BusinessLayer4.pdb
+C:\Users\lmoun\source\repos\BusinessLayer4\bin\Debug\net5.0\DataAcessLayer.dll
+C:\Users\lmoun\source\repos\BusinessLayer4\bin\Debug\net5.0\DomainLayer4.dll
+C:\Users\lmoun\source\repos\BusinessLayer4\bin\Debug\net5.0\DataAcessLayer.pdb
+C:\Users\lmoun\source\repos\BusinessLayer4\bin\Debug\net5.0\DomainLayer4.pdb
+C:\Users\lmoun\source\repos\BusinessLayer4\obj\Debug\net5.0\BusinessLayer4.csproj.AssemblyReference.cache
+C:\Users\lmoun\source\repos\BusinessLayer4\obj\Debug\net5.0\BusinessLayer4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmoun\source\repos\BusinessLayer4\obj\Debug\net5.0\BusinessLayer4.AssemblyInfoInputs.cache
+C:\Users\lmoun\source\repos\BusinessLayer4\obj\Debug\net5.0\BusinessLayer4.AssemblyInfo.cs
+C:\Users\lmoun\source\repos\BusinessLayer4\obj\Debug\net5.0\BusinessLayer4.csproj.CoreCompileInputs.cache
+C:\Users\lmoun\source\repos\BusinessLayer4\obj\Debug\net5.0\BusinessLayer4.csproj.CopyComplete
+C:\Users\lmoun\source\repos\BusinessLayer4\obj\Debug\net5.0\BusinessLayer4.dll
+C:\Users\lmoun\source\repos\BusinessLayer4\obj\Debug\net5.0\refint\BusinessLayer4.dll
+C:\Users\lmoun\source\repos\BusinessLayer4\obj\Debug\net5.0\BusinessLayer4.pdb
+C:\Users\lmoun\source\repos\BusinessLayer4\obj\Debug\net5.0\ref\BusinessLayer4.dll
+C:\Users\lmoun\source\repos\day4 WebApi\BusinessLayer4\obj\Debug\net5.0\BusinessLayer4.csproj.AssemblyReference.cache
+C:\Users\lmoun\source\repos\day4 WebApi\BusinessLayer4\obj\Debug\net5.0\BusinessLayer4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmoun\source\repos\day4 WebApi\BusinessLayer4\obj\Debug\net5.0\BusinessLayer4.AssemblyInfoInputs.cache
+C:\Users\lmoun\source\repos\day4 WebApi\BusinessLayer4\obj\Debug\net5.0\BusinessLayer4.AssemblyInfo.cs
+C:\Users\lmoun\source\repos\day4 WebApi\BusinessLayer4\obj\Debug\net5.0\BusinessLayer4.csproj.CoreCompileInputs.cache
+C:\Users\lmoun\source\repos\day4 WebApi\BusinessLayer4\obj\Debug\net5.0\BusinessLayer4.dll
+C:\Users\lmoun\source\repos\day4 WebApi\BusinessLayer4\obj\Debug\net5.0\refint\BusinessLayer4.dll
+C:\Users\lmoun\source\repos\day4 WebApi\BusinessLayer4\obj\Debug\net5.0\BusinessLayer4.pdb
+C:\Users\lmoun\source\repos\day4 WebApi\BusinessLayer4\bin\Debug\net5.0\BusinessLayer4.deps.json
+C:\Users\lmoun\source\repos\day4 WebApi\BusinessLayer4\bin\Debug\net5.0\BusinessLayer4.dll
+C:\Users\lmoun\source\repos\day4 WebApi\BusinessLayer4\bin\Debug\net5.0\BusinessLayer4.pdb
+C:\Users\lmoun\source\repos\day4 WebApi\BusinessLayer4\bin\Debug\net5.0\DataAcessLayer.dll
+C:\Users\lmoun\source\repos\day4 WebApi\BusinessLayer4\bin\Debug\net5.0\DomainLayer4.dll
+C:\Users\lmoun\source\repos\day4 WebApi\BusinessLayer4\bin\Debug\net5.0\DataAcessLayer.pdb
+C:\Users\lmoun\source\repos\day4 WebApi\BusinessLayer4\bin\Debug\net5.0\DomainLayer4.pdb
+C:\Users\lmoun\source\repos\day4 WebApi\BusinessLayer4\obj\Debug\net5.0\BusinessLayer4.csproj.CopyComplete
+C:\Users\lmoun\source\repos\day4 WebApi\BusinessLayer4\obj\Debug\net5.0\ref\BusinessLayer4.dll

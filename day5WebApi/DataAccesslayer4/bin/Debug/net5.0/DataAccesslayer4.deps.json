@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DataAccesslayer4/1.0.0": {
+        "dependencies": {
+          "DomainLayer4": "1.0.0"
+        },
+        "runtime": {
+          "DataAccesslayer4.dll": {}
+        }
+      },
+      "DomainLayer4/1.0.0": {
+        "runtime": {
+          "DomainLayer4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DataAccesslayer4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DomainLayer4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

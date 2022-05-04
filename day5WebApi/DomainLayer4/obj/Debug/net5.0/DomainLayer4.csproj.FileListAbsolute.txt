@@ -1,0 +1,24 @@
+C:\Users\lmoun\source\repos\DomainLayer4\bin\Debug\net5.0\DomainLayer4.deps.json
+C:\Users\lmoun\source\repos\DomainLayer4\bin\Debug\net5.0\DomainLayer4.dll
+C:\Users\lmoun\source\repos\DomainLayer4\bin\Debug\net5.0\DomainLayer4.pdb
+C:\Users\lmoun\source\repos\DomainLayer4\obj\Debug\net5.0\DomainLayer4.csproj.AssemblyReference.cache
+C:\Users\lmoun\source\repos\DomainLayer4\obj\Debug\net5.0\DomainLayer4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmoun\source\repos\DomainLayer4\obj\Debug\net5.0\DomainLayer4.AssemblyInfoInputs.cache
+C:\Users\lmoun\source\repos\DomainLayer4\obj\Debug\net5.0\DomainLayer4.AssemblyInfo.cs
+C:\Users\lmoun\source\repos\DomainLayer4\obj\Debug\net5.0\DomainLayer4.csproj.CoreCompileInputs.cache
+C:\Users\lmoun\source\repos\DomainLayer4\obj\Debug\net5.0\DomainLayer4.dll
+C:\Users\lmoun\source\repos\DomainLayer4\obj\Debug\net5.0\refint\DomainLayer4.dll
+C:\Users\lmoun\source\repos\DomainLayer4\obj\Debug\net5.0\DomainLayer4.pdb
+C:\Users\lmoun\source\repos\DomainLayer4\obj\Debug\net5.0\ref\DomainLayer4.dll
+C:\Users\lmoun\source\repos\day4 WebApi\DomainLayer4\bin\Debug\net5.0\DomainLayer4.deps.json
+C:\Users\lmoun\source\repos\day4 WebApi\DomainLayer4\bin\Debug\net5.0\DomainLayer4.dll
+C:\Users\lmoun\source\repos\day4 WebApi\DomainLayer4\bin\Debug\net5.0\DomainLayer4.pdb
+C:\Users\lmoun\source\repos\day4 WebApi\DomainLayer4\obj\Debug\net5.0\DomainLayer4.csproj.AssemblyReference.cache
+C:\Users\lmoun\source\repos\day4 WebApi\DomainLayer4\obj\Debug\net5.0\DomainLayer4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmoun\source\repos\day4 WebApi\DomainLayer4\obj\Debug\net5.0\DomainLayer4.AssemblyInfoInputs.cache
+C:\Users\lmoun\source\repos\day4 WebApi\DomainLayer4\obj\Debug\net5.0\DomainLayer4.AssemblyInfo.cs
+C:\Users\lmoun\source\repos\day4 WebApi\DomainLayer4\obj\Debug\net5.0\DomainLayer4.csproj.CoreCompileInputs.cache
+C:\Users\lmoun\source\repos\day4 WebApi\DomainLayer4\obj\Debug\net5.0\DomainLayer4.dll
+C:\Users\lmoun\source\repos\day4 WebApi\DomainLayer4\obj\Debug\net5.0\refint\DomainLayer4.dll
+C:\Users\lmoun\source\repos\day4 WebApi\DomainLayer4\obj\Debug\net5.0\DomainLayer4.pdb
+C:\Users\lmoun\source\repos\day4 WebApi\DomainLayer4\obj\Debug\net5.0\ref\DomainLayer4.dll

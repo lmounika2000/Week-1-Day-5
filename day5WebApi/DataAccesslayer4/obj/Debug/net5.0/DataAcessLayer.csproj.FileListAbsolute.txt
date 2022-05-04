@@ -1,0 +1,36 @@
+C:\Users\lmoun\source\repos\DataAccesslayer4\bin\Debug\net5.0\DataAcessLayer.deps.json
+C:\Users\lmoun\source\repos\DataAccesslayer4\bin\Debug\net5.0\DataAcessLayer.dll
+C:\Users\lmoun\source\repos\DataAccesslayer4\bin\Debug\net5.0\DataAcessLayer.pdb
+C:\Users\lmoun\source\repos\DataAccesslayer4\bin\Debug\net5.0\DomainLayer4.dll
+C:\Users\lmoun\source\repos\DataAccesslayer4\bin\Debug\net5.0\DomainLayer4.pdb
+C:\Users\lmoun\source\repos\DataAccesslayer4\obj\Debug\net5.0\DataAcessLayer.csproj.AssemblyReference.cache
+C:\Users\lmoun\source\repos\DataAccesslayer4\obj\Debug\net5.0\DataAcessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmoun\source\repos\DataAccesslayer4\obj\Debug\net5.0\DataAcessLayer.AssemblyInfoInputs.cache
+C:\Users\lmoun\source\repos\DataAccesslayer4\obj\Debug\net5.0\DataAcessLayer.AssemblyInfo.cs
+C:\Users\lmoun\source\repos\DataAccesslayer4\obj\Debug\net5.0\DataAcessLayer.csproj.CoreCompileInputs.cache
+C:\Users\lmoun\source\repos\DataAccesslayer4\obj\Debug\net5.0\DataAcessLayer.csproj.CopyComplete
+C:\Users\lmoun\source\repos\DataAccesslayer4\obj\Debug\net5.0\DataAcessLayer.dll
+C:\Users\lmoun\source\repos\DataAccesslayer4\obj\Debug\net5.0\refint\DataAcessLayer.dll
+C:\Users\lmoun\source\repos\DataAccesslayer4\obj\Debug\net5.0\DataAcessLayer.pdb
+C:\Users\lmoun\source\repos\DataAccesslayer4\obj\Debug\net5.0\ref\DataAcessLayer.dll
+C:\Users\lmoun\source\repos\DataAccesslayer4\bin\Debug\net5.0\DataAcessLayer.runtimeconfig.json
+C:\Users\lmoun\source\repos\DataAccesslayer4\bin\Debug\net5.0\DataAcessLayer.runtimeconfig.dev.json
+C:\Users\lmoun\source\repos\DataAccesslayer4\obj\Debug\net5.0\DataAcessLayer.genruntimeconfig.cache
+C:\Users\lmoun\source\repos\day4 WebApi\DataAccesslayer4\bin\Debug\net5.0\DataAcessLayer.deps.json
+C:\Users\lmoun\source\repos\day4 WebApi\DataAccesslayer4\bin\Debug\net5.0\DataAcessLayer.runtimeconfig.json
+C:\Users\lmoun\source\repos\day4 WebApi\DataAccesslayer4\bin\Debug\net5.0\DataAcessLayer.runtimeconfig.dev.json
+C:\Users\lmoun\source\repos\day4 WebApi\DataAccesslayer4\bin\Debug\net5.0\DataAcessLayer.dll
+C:\Users\lmoun\source\repos\day4 WebApi\DataAccesslayer4\bin\Debug\net5.0\DataAcessLayer.pdb
+C:\Users\lmoun\source\repos\day4 WebApi\DataAccesslayer4\bin\Debug\net5.0\DomainLayer4.dll
+C:\Users\lmoun\source\repos\day4 WebApi\DataAccesslayer4\bin\Debug\net5.0\DomainLayer4.pdb
+C:\Users\lmoun\source\repos\day4 WebApi\DataAccesslayer4\obj\Debug\net5.0\DataAcessLayer.csproj.AssemblyReference.cache
+C:\Users\lmoun\source\repos\day4 WebApi\DataAccesslayer4\obj\Debug\net5.0\DataAcessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmoun\source\repos\day4 WebApi\DataAccesslayer4\obj\Debug\net5.0\DataAcessLayer.AssemblyInfoInputs.cache
+C:\Users\lmoun\source\repos\day4 WebApi\DataAccesslayer4\obj\Debug\net5.0\DataAcessLayer.AssemblyInfo.cs
+C:\Users\lmoun\source\repos\day4 WebApi\DataAccesslayer4\obj\Debug\net5.0\DataAcessLayer.csproj.CoreCompileInputs.cache
+C:\Users\lmoun\source\repos\day4 WebApi\DataAccesslayer4\obj\Debug\net5.0\DataAcessLayer.csproj.CopyComplete
+C:\Users\lmoun\source\repos\day4 WebApi\DataAccesslayer4\obj\Debug\net5.0\DataAcessLayer.dll
+C:\Users\lmoun\source\repos\day4 WebApi\DataAccesslayer4\obj\Debug\net5.0\refint\DataAcessLayer.dll
+C:\Users\lmoun\source\repos\day4 WebApi\DataAccesslayer4\obj\Debug\net5.0\DataAcessLayer.pdb
+C:\Users\lmoun\source\repos\day4 WebApi\DataAccesslayer4\obj\Debug\net5.0\DataAcessLayer.genruntimeconfig.cache
+C:\Users\lmoun\source\repos\day4 WebApi\DataAccesslayer4\obj\Debug\net5.0\ref\DataAcessLayer.dll
